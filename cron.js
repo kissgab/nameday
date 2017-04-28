@@ -1,3 +1,5 @@
+'use strict';
+
 process.env.IS_CLI = true
 const path = require('path')
 const moment = require('moment')

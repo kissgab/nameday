@@ -1,3 +1,5 @@
+'use strict';
+
 const path = require('path')
 const moment = require('moment')
 const Nameday = require('./lib/nameday')
